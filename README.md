@@ -9,7 +9,7 @@
 
 <div class="header">
     <h1>
-Hello there!My name is Mixafk</h1>
+Hello there!</h1>
 </div>
 
 
