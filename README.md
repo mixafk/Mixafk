@@ -5,14 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--     <link rel="stylesheet" href="styles.css"> -->
 </head>
-<body style="align-items: center">
+<body>
 
-<div class="header">
-    <h1 style="align-items: center">Hello there!</h1>
-</div>
+<h1 align="center">Hello there!</h1>
 
-
-* 🌍  I'm based in Россия
 
 ### Skills
 <p>srbgtsdrbsr</p>
