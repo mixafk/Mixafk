@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1 align="center">Hello there!</h1>
+<h1>Hello there!</h1>
 
 
 ### Skills
